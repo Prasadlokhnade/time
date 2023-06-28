@@ -3,7 +3,8 @@ import React from 'react'
 const Community = () => {
   return (
     <div>
-      Community
+      Community K
+
     </div>
   )
 }
